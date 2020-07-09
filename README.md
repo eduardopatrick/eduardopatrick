@@ -1,6 +1,5 @@
-# Oi, eu sou o Patrick ( voz imaginária do goku aqui ) ;D
+# Oi, eu sou o Patrick :sunglasses:
+>  ( Se você não leu com a voz do goku, leia de novo )
 
-
-### Isso é um pouco sobre mim
-
+![alt text](https://media.giphy.com/media/zCtOatW0GOije/giphy.gif)
 
