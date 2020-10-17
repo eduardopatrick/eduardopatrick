@@ -18,4 +18,4 @@
 
 ### Eu gosto muito de gifs/ Kinda like alot gif images
 ![alt text](https://media.giphy.com/media/zCtOatW0GOije/giphy.gif)
->  Se você não leu com a voz do goku, leu errado 
+>  Se você não leu com a voz do goku, leu errado/ If u didn't read with goku's voice, u did it wrong.
