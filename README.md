@@ -1,9 +1,9 @@
 # Oi, eu sou o Patrick :sunglasses:
 >  Se você não leu com a voz do goku, leu errado/ If u didn't read with goku's voice, u did it wrong.
 
-- Sou bastante apaixonado por tecnologia, já trabalhei muito com web, utilizando tecnologias como: ruby on rails, angular 6+, graphql, vue, postegresql, git, karma e protactor.
+- Sou bastante apaixonado por tecnologia, já trabalhei muito com web, utilizando tecnologias como: ruby on rails, angular 6+, React, React Native, graphql, Vue, postegresql, git, karma e protactor.
 
->  I love technology, alredy have worked alot with some web techonologies like: ruby on rails, angular 6+, graphql, vue, postegresql, git, karma and protactor.
+>  I love technology, alredy have worked alot with some web techonologies like: ruby on rails, angular 6+, React, React Native, graphql, Vue, postegresql, git, karma and protactor.
 
 - Também curto bastante gestão de pessoas e já trabalhei com transformação digital por um tempo, em posicionamento enquanto marca Tech por meio de employer branding e aproximação com comunidades de desenvolvimento.
 
