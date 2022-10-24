@@ -13,5 +13,4 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eduardo-patrick-wamdev/)
 &nbsp;
 
-[![Whatsapp](https://img.icons8.com/color/18/000000/whatsapp.png) Whatsapp](https://api.whatsapp.com/send?phone=5585999401655&text=Ol%C3%A1%2C%20dei%20uma%20olhada%20no%20seu%20github%20e%20queria%20conversar%20sobre%20algo.) 
 ( Be confortable to contact me in english )
