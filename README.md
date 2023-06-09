@@ -9,4 +9,4 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eduardo-patrick-wamdev/)
 &nbsp;
 
-( Be confortable to contact me in english or spanish )
+Be confortable to contact me in english, spanish or portuguese
