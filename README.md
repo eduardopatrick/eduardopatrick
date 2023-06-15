@@ -6,7 +6,7 @@
 >  I also love to learn about people management and a few year ago I've worked with digital transformation for a while, acting through employer branding to help the tech company where I was working by the time to consolidate and attract talents by the proximity to developer's comunities.
 
 ### Contact me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eduardo-patrick-wamdev/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/patrickandrade1/)
 &nbsp;
 
 Be confortable to contact me in english, spanish or portuguese
