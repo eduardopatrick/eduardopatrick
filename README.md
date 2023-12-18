@@ -1,12 +1,12 @@
 # Hi, I'm Patrick ✌️
-> If you haven't read with goku's voice, you did it wrong 😞
+> If you haven't read with Goku's voice, you did it wrong 😞
 
->  I love technology and I've already worked a lot with some techonologies like: Ruby on Rails, Angular 6+, React, React Native, Vue, Vtex and others.
->  In the past 2 years I've been working in internacional projects and earned a lot of experience in English and Spanish for communication and also to build trainnings or conduct technnical meetings..
->  I also love to learn about people management and a few year ago I've worked with digital transformation for a while, acting through employer branding to help the tech company where I was working by the time to consolidate and attract talents by the proximity to developer's comunities.
+>  I love technology and I've already worked a lot with some technologies like Ruby on Rails, Angular 6+, React, React Native, Vue, Vtex IO, FastStore, and others.
+>  In the past 3 years I've been working on international projects and earning a lot of experience in English and Spanish for communication, also to build trainings or conducting technical meetings.
+>  I also love to learn about people management and a few years ago I worked with digital transformation for a while, acting through employer branding to help the tech company where I was working at the time to consolidate and attract talents by the proximity to developer communities.
 
 ### Contact me
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/patrickandrade1/)
 &nbsp;
 
-Be confortable to contact me in english, spanish or portuguese
+Be comfortable contacting me in English, Spanish, or Portuguese.
