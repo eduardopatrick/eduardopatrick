@@ -6,6 +6,8 @@
 >  I also love to learn about people management and a few years ago I worked with digital transformation for a while, acting through employer branding to help the tech company where I was working at the time to consolidate and attract talents by the proximity to developer communities.
 
 ### Contact me
-[![LinkedIn - Patrick Andrade](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/patrickandrade1/)
+<a href="https://www.linkedin.com/in/patrickandrade1/" target="_blank">
+<img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn - Patrick Andrade" style="height: 30px !important;">
+</a>
 
 Be comfortable contacting me in English, Spanish, or Portuguese.
